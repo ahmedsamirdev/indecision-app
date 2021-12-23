@@ -2,7 +2,7 @@
 
 Indecision is an app that let the computer guide you in your added options (todos).
 
-### Description
+### Tech stack
 
 - HTML
 - Sass
